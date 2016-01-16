@@ -1,0 +1,16 @@
+5
+0	image/planet3.png	image/antigravity2.png
+1	image/planet3.png	image/stantigravity2.png
+2	image/planet3.png	image/stantigravity2.png
+3	image/planet3.png	image/stantigravity2.png
+4	image/planet3.png	image/stantigravity2.png
+@
+0	462	321	0	1	0	
+1	739	81	0	1	0
+2	739	81	0	1	0
+3	207	652	0	1	0
+4	207	652	0	1	0		
+@
+image/arrival.png	image/gravity.png	700	500	1
+100	150
+stage/1-9.txt

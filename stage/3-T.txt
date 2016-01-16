@@ -1,0 +1,8 @@
+1
+0	image/ending.png	image/ending.png
+@
+0	512	384	1	0	0		
+@
+image/arrival.png	image/gravity.png	2000	2636	1
+2000	2000
+abc

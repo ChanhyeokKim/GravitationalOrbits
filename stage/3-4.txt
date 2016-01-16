@@ -1,0 +1,24 @@
+9
+0	image/planet.png	image/gravity3.png
+1	image/planet.png	image/gravity3.png
+2	image/planet.png	image/gravity3.png
+3	image/planet.png	image/gravity3.png
+4	image/planet.png	image/gravity3.png
+5	image/planet.png	image/gravity3.png
+6	image/planet.png	image/gravity2.png
+7	image/planet.png	image/gravity2.png
+8	image/arrival.png	image/stgravity.png
+@
+0	290	70	0	0	0	
+1	570	70	0	0	0	
+2	850	70	0	0	0
+3	290	698	0	0	0
+4	570	698	0	0	0
+5	850	698	0	0	0
+6	430	384	0	0	0
+7	710	384	0	0	0
+8	950	384	0	0	0
+@
+image/arrival.png	image/stgravity.png	950	384	2
+50	384
+stage/3-5.txt

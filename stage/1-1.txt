@@ -1,0 +1,8 @@
+1
+0	image/planet.png	image/stgravity3.png
+@
+0	700	500	0	0	0			
+@
+image/arrival.png	image/stgravity3.png	700	500	1
+100	150
+stage/1-2.txt

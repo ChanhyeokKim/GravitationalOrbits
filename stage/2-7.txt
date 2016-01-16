@@ -1,0 +1,18 @@
+6
+0	image/planet.png	image/antigravity.png
+1	image/planet.png	image/gravity2.png
+2	image/planet.png	image/antigravity.png
+3	image/planet2.png	image/planet2.png
+4	image/planet2.png	image/planet2.png
+5	image/planet2.png	image/planet2.png
+@
+0	791	471	0	1	0	
+1	546	371	0	0	0	
+2	791	471	0	1	0
+3	791	350	1	0	0
+4	791	280	1	0	0
+5	791	210	1	0	0
+@
+image/arrival.png	image/gravity.png	950	371	2
+120	368
+stage/2-8.txt

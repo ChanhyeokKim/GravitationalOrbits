@@ -1,0 +1,12 @@
+3
+0	image/planet.png	image/gravity2.png
+1	image/planet.png	image/antigravity.png
+2	image/planet.png	image/stgravity.png
+@
+0	365	361	0	0	0	
+1	635	361	0	1	0	
+2	950	361	0	0	0
+@
+image/arrival.png	image/stgravity.png	950	361	2
+55	361
+stage/2-5.txt
